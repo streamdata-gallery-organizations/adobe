@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/151-adobe.
 x-kinRank: "9"
 x-alexaRank: "82"
 tags: Adobe
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/adobe/master/_listings/adobe/apis.md
 specificationVersion: "0.14"
 apis: []
